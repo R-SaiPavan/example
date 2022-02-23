@@ -1,2 +1,4 @@
 what is maven?
 Maven is a project management and comprehension tool that provides developers a complete build lifecycle framework
+Maven helps the developer to create a java-based project more easily. Accessibility of new feature created or added in Maven can be easily added to a project in Maven configuration. It increases the performance of project and building process.
+The main feature of Maven is that it can download the project dependency libraries automatically.
