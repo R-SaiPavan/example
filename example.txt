@@ -1,1 +1,2 @@
 what is maven?
+Maven is a project management and comprehension tool that provides developers a complete build lifecycle framework
